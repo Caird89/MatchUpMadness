@@ -1,0 +1,123 @@
+/*!* Step 1 - Add a nice background *!*/
+/*body {*/
+html {
+    background: paleturquoise url("images/border_blue_diamond.png");
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    text-align: center;
+}
+
+#gameboard {
+    border: 1em double deepskyblue;
+    padding-bottom: 3em;
+
+}
+
+#cards {
+    width: 88%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+    text-align: center;
+    margin: auto;
+}
+
+/*}*/
+
+/*!* Step 2 - Add a nice card style *!*/
+/*.card {*/
+.card {
+    height: 8rem;
+    width: 7.3%;
+    background: darkblue url("images/pattern_blue_diamond.png");
+    background-size: cover;
+    border: 2.7px dashed deepskyblue;
+    margin: 8px;
+    border-radius: 8px;
+}
+
+/*}*/
+
+/*!* Step 3 - Add a nice hover effect *!*/
+/*.card:hover {*/
+.card:hover {
+    background: palegreen url("images/pattern_BR_diamond.png");
+    background-size: cover;
+}
+
+/*}*/
+
+/*!* Step 4 (+4 points) - Write a style for a flipped card *!*/
+/*.flipped {*/
+.flipped:hover, .flipped {
+    background: bisque;
+    text-justify: auto;
+    color: black;
+    font-size: 1.2em;
+}
+
+/*}*/
+
+/*!* Step 5 - Add a nice style to the message element *!*/
+/*#message {*/
+#message {
+    font-size: 2em;
+    color: aliceblue;
+    margin-bottom: 1em;
+    text-shadow: -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+}
+
+/*}*/
+
+/*!* Step 6 - Add 5 more style changes... *!*/
+/*!* 1) *!*/
+#score {
+    display: flex;
+    font-size: 2.5em;
+    padding: 1em;
+    color: darkgreen;
+    justify-content: space-around;
+    text-shadow: -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
+
+}
+
+/*!* 2) *!*/
+h1 {
+    font-size: 4em;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    text-shadow: -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+}
+
+/*!* 3) *!*/
+#resetBtn:hover {
+    background-color: darkturquoise;
+}
+
+#resetBtn {
+    background-color: blue;
+    margin: 20px;
+    padding: 15px;
+    border: none;
+    border-radius: 3px;
+}
+
+/*!* 4) *!*/
+#score {
+
+}
+
+/*!* 5) *!*/
