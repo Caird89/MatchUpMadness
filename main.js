@@ -99,7 +99,7 @@ function cardSelected(event) {
         if (currentCard.dataset.prototype === event.target.dataset.prototype) {
             // Step 6b - Add a class to the 2 card elements
             // flipping them over
-            //           deck.forEach(card => card.addEventListener(onclick, 'flipped'));
+            
             showCardFace(currentCard);
             currentCard.removeEventListener('click', cardSelected);
             showCardFace(event.target);
@@ -130,7 +130,7 @@ function cardSelected(event) {
                 messageEle.textContent = `Hey, ${currentPlayer.name} it's your turn!`;
                 setCurrentCardDefault();
             }, 1050);
-            //reactivates eventlistners when putting the cards back in play
+            //reactivates eventlisteners when putting the cards back in play
             event.target.addEventListener('click', cardSelected);
             currentCard.addEventListener('click', cardSelected);
         }
@@ -188,17 +188,6 @@ function randInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
 }
 
-//this is a card flip function
-// function flipCard(card) {
-//     if(card.firstChild.textContent = ""){
-//      card.classList.add('flipped');
-//      card.firstChild.textContent = card.dataset.prototype;
-//     } else {
-//         card.classList.remove('flipped');
-//         card.firstChild.textContent = "";
-//     }
-// }
-
 // this function flips a card to show face
 function showCardFace(cardEle) {
     cardEle.classList.add('flipped');
@@ -240,7 +229,6 @@ function resetBoard() {
     while (cardsEle.firstChild) {
         cardsEle.removeChild(cardsEle.firstChild);
     }
-    //cardsEle.forEach(cardsEle.children).removeChild();
 }
 
 // this function resets the players objects to their starting values

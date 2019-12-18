@@ -2,112 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f8acaf7-a60f-434d-b63d-70e66424294a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/assignment_one.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignore.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/banner_blue_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/border_blue_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pattern_BR_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pattern_blue_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1806065894">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="26" />
-          <entry key="html" value="37" />
-          <entry key="js" value="35" />
-          <entry key="png" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="26" />
-          <entry key="HTML" value="37" />
-          <entry key="Image" value="11" />
-          <entry key="JavaScript" value="35" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="1068" />
-          <entry key="html" value="23" />
-          <entry key="js" value="3203" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="1068" />
-          <entry key="HTML" value="23" />
-          <entry key="JavaScript" value="3203" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/styles.css" />
-        <option value="$PROJECT_DIR$/main.js" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1680" />
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
-  </component>
+  <component name="ProjectId" id="1V4qyzVyqBeIl9Yk2hqtfTDJugy" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -123,43 +35,16 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="assignment_one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment_one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment_one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment_one" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="assignment_one" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
@@ -172,27 +57,35 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/assignment_one/index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MatchUpMadness/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/assignment_one/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="Node.js.main.js" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -206,11 +99,11 @@
       <updated>1540670718094</updated>
       <workItem from="1540670719247" duration="19960000" />
       <workItem from="1540696933645" duration="28552000" />
+      <workItem from="1553989170401" duration="523000" />
+      <workItem from="1576522974717" duration="3609000" />
+      <workItem from="1576617223091" duration="405000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48512000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -221,67 +114,93 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.18701701" visible="true" weight="0.13322802" />
-      <window_info id="Structure" order="1" sideWeight="0.812983" side_tool="true" visible="true" weight="0.13322802" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32953367" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/pattern_BR_diamond.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/pattern_blue_diamond.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/banner_blue_diamond.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/border_blue_diamond.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="84" column="30" lean-forward="true" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="345" key="GridCell.Tab.0.bottom" timestamp="1576554296549">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="266" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524661406" />
+    <state width="1659" height="345" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296549" />
+    <state width="1659" height="345" key="GridCell.Tab.0.center" timestamp="1576554296549">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="266" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524661405" />
+    <state width="1659" height="345" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296549" />
+    <state width="1659" height="345" key="GridCell.Tab.0.left" timestamp="1576554296549">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="266" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524661404" />
+    <state width="1659" height="345" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296549" />
+    <state width="1659" height="345" key="GridCell.Tab.0.right" timestamp="1576554296549">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="266" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524661405" />
+    <state width="1659" height="345" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296549" />
+    <state width="1659" height="345" key="GridCell.Tab.1.bottom" timestamp="1576554296550">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064835" />
+    <state width="1659" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296550" />
+    <state width="1659" height="345" key="GridCell.Tab.1.center" timestamp="1576554296550">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064835" />
+    <state width="1659" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296550" />
+    <state width="1659" height="345" key="GridCell.Tab.1.left" timestamp="1576554296549">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064834" />
+    <state width="1659" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296549" />
+    <state width="1659" height="345" key="GridCell.Tab.1.right" timestamp="1576554296550">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064835" />
+    <state width="1659" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296550" />
+    <state width="1659" height="345" key="GridCell.Tab.2.bottom" timestamp="1576554296551">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.2.bottom/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064837" />
+    <state width="1659" height="345" key="GridCell.Tab.2.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296551" />
+    <state width="1659" height="345" key="GridCell.Tab.2.center" timestamp="1576554296550">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.2.center/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064836" />
+    <state width="1659" height="345" key="GridCell.Tab.2.center/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296550" />
+    <state width="1659" height="345" key="GridCell.Tab.2.left" timestamp="1576554296550">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.2.left/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064836" />
+    <state width="1659" height="345" key="GridCell.Tab.2.left/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296550" />
+    <state width="1659" height="345" key="GridCell.Tab.2.right" timestamp="1576554296551">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.2.right/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064837" />
+    <state width="1659" height="345" key="GridCell.Tab.2.right/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296551" />
+    <state width="1659" height="345" key="GridCell.Tab.3.bottom" timestamp="1576554296551">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.3.bottom/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064838" />
+    <state width="1659" height="345" key="GridCell.Tab.3.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296551" />
+    <state width="1659" height="345" key="GridCell.Tab.3.center" timestamp="1576554296551">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.3.center/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064838" />
+    <state width="1659" height="345" key="GridCell.Tab.3.center/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296551" />
+    <state width="1659" height="345" key="GridCell.Tab.3.left" timestamp="1576554296551">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.3.left/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064837" />
+    <state width="1659" height="345" key="GridCell.Tab.3.left/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296551" />
+    <state width="1659" height="345" key="GridCell.Tab.3.right" timestamp="1576554296551">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="345" key="GridCell.Tab.3.right/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576524064838" />
+    <state width="1659" height="345" key="GridCell.Tab.3.right/0.23.1680.1027@0.23.1680.1027" timestamp="1576554296551" />
+    <state x="569" y="277" key="VcsDiffUtil.ChangesDialog" timestamp="1576523209093">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="569" y="277" key="VcsDiffUtil.ChangesDialog/-1920.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1576523209093" />
   </component>
 </project>
